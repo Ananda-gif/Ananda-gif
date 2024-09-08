@@ -1,0 +1,23 @@
+{
+  "name": "mon-premier-projet-git",
+  "version": "1.0.0",
+  "description": "creation-hello-world-en-Node-js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ananda-gif/Ananda-gif.git"
+  },
+  "author": "Ananda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ananda-gif/Ananda-gif/issues"
+  },
+  "homepage": "https://github.com/Ananda-gif/Ananda-gif#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
